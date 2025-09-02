@@ -299,4 +299,4 @@ def simulate_data_changes():
     while True:
         time.sleep
 if __name__ == "__main__":
-    app.run(debug=True, host="0.0.0.0", port=5000)
+    app.run(debug=True, host="https://mock-a2dsa23q4-kapils-projects-4f75ff11.vercel.app", port=5000)
